@@ -8,7 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
  *
- * @author Minu
+ * @author Ganit
  */
 public class ClientWindow extends javax.swing.JFrame {
 
