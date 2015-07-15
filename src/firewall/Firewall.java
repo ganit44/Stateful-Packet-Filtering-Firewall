@@ -1,7 +1,7 @@
 package firewall;
 /**
  *
- * @author Minu
+ * @author Ganit
  */
 class ServerThread extends Thread
 {
