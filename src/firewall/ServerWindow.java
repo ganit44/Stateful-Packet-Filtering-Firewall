@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 /**
  *
- * @author Minu
+ * @author Ganit
  */
 
 public class ServerWindow extends javax.swing.JFrame{
