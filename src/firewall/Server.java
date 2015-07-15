@@ -8,7 +8,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author Minu
+ * @author Ganit
  */
 public class Server {
     
